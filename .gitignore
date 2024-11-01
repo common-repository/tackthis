@@ -1,0 +1,6 @@
+# IDE
+/nbproject/**
+/nbproject/project.properties
+.idea
+Thumbs.db
+.DS_Store
